@@ -1,0 +1,66 @@
+# Secrets and local env
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.idea/
+.vscode/
+*.iml
+*.swp
+*~
+
+# Java / Maven
+**/target/
+**/.mvn/wrapper/maven-wrapper.jar
+!**/mvnw
+!**/mvnw.cmd
+*.class
+*.jar
+*.war
+hs_err_pid*
+
+# Node
+**/node_modules/
+**/.next/
+**/out/
+**/dist/
+**/.turbo/
+*.tsbuildinfo
+npm-debug.log*
+
+# Python
+**/__pycache__/
+**/.venv/
+**/*.pyc
+**/.pytest_cache/
+**/.mypy_cache/
+
+# Databases and local data
+**/*.db
+**/data/
+**/uploads/
+
+# Logs
+*.log
+logs/
+
+# Docker
+**/docker-compose.override.yml
+
+# Coverage
+**/coverage/
+**/.nyc_output/
+**/htmlcov/
+
+# Local tool caches
+.cache/
+
+# Nested project repositories (each product has its own GitHub repo)
+agriculture-platform/.git/
