@@ -26,8 +26,7 @@ Relational design, authorization, observability, and making distributed pieces f
 ## Contact
 
 - Email: isimbihyguette07@gmail.com
-- Portfolio: *(link after the site is deployed)*
-- GitHub: *(profile URL)*
-- LinkedIn: *(profile URL)*
+- Portfolio: https://github.com/Hyguette07/developer-portfolio
+- GitHub: https://github.com/Hyguette07
 
 > Statistics widgets are optional. I prefer repositories you can clone, run, and read.

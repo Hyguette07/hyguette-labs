@@ -64,9 +64,22 @@ GitHub repositories:
 - https://github.com/Hyguette07/developer-portfolio
 - Workspace: https://github.com/Hyguette07/hyguette-labs
 
+## Status
+
+| Product | Demo | GitHub |
+| --- | --- | --- |
+| AgriPulse | API 8081 · UI 3000 | [agripulse](https://github.com/Hyguette07/agripulse) |
+| MoveFlow | API 8082 · UI 3002 | [moveflow](https://github.com/Hyguette07/moveflow) |
+| LearnSphere | API 8083 · UI 3003 | [learnsphere](https://github.com/Hyguette07/learnsphere) |
+| MediBridge | API 8084 · UI 3004 | [medibridge](https://github.com/Hyguette07/medibridge) |
+| NexusOne | API 8085 · UI 3005 | [nexusone](https://github.com/Hyguette07/nexusone) |
+| Portfolio site | UI 3000 | [developer-portfolio](https://github.com/Hyguette07/developer-portfolio) |
+
+Local Java APIs use the `local` profile (H2). Seed password is `APP_SEED_PASSWORD` (default `ChangeMe123!`).
+
 ## How to work this workspace
 
-Build in the order documented in [docs/development-plan.md](./docs/development-plan.md). Do not start five backends at once.
+Each product is its own git repository. Copy `.env.example` to `.env` before Docker or production runs.
 
 **Never commit secrets.** Copy `.env.example` to `.env` in each project. JWT secrets, database passwords, and API keys stay local or in the host’s secret manager.
 
