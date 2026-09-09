@@ -13,14 +13,14 @@ Agriculture  →  Transportation  →  Education  →  Healthcare  →  Multi-do
    AgriPulse        MoveFlow         LearnSphere     MediBridge         NexusOne            Portfolio
 ```
 
-| Phase | Product | Domain | What makes it memorable |
+| Phase | Product | Domain | GitHub |
 | --- | --- | --- | --- |
-| 1 | [AgriPulse](./agriculture-platform) | Agriculture | Weather-aware **Pulse Score** and advisory engine for smallholder farms |
-| 2 | [MoveFlow](./transport-platform) | Transportation | Delay-aware trip intelligence and digital tickets |
-| 3 | [LearnSphere](./education-platform) | Education | Performance-based study recommendations, not just course catalogs |
-| 4 | [MediBridge](./health-platform) | Healthcare | Privacy-first appointment coordination with audit logging |
-| 5 | [NexusOne](./advanced-project) | Emergency coordination | Real-time multi-domain dispatch (FastAPI, Redis, WebSockets) |
-| 6 | [Developer portfolio](./portfolio-website) | Identity | The public narrative that ties the systems together |
+| 1 | [AgriPulse](./agriculture-platform) | Agriculture | https://github.com/Hyguette07/agripulse |
+| 2 | [MoveFlow](./transport-platform) | Transportation | https://github.com/Hyguette07/moveflow |
+| 3 | [LearnSphere](./education-platform) | Education | https://github.com/Hyguette07/learnsphere |
+| 4 | [MediBridge](./health-platform) | Healthcare | https://github.com/Hyguette07/medibridge |
+| 5 | [NexusOne](./advanced-project) | Emergency coordination | https://github.com/Hyguette07/nexusone |
+| 6 | [Developer portfolio](./portfolio-website) | Identity | https://github.com/Hyguette07/developer-portfolio |
 
 ## Technology growth
 
@@ -54,14 +54,15 @@ portfolio/
 
 Each product is independently deployable and intended as its own Git repository.
 
-Suggested GitHub repositories:
+GitHub repositories:
 
-- `agripulse`
-- `moveflow`
-- `learnsphere`
-- `medibridge`
-- `nexusone`
-- `developer-portfolio`
+- https://github.com/Hyguette07/agripulse
+- https://github.com/Hyguette07/moveflow
+- https://github.com/Hyguette07/learnsphere
+- https://github.com/Hyguette07/medibridge
+- https://github.com/Hyguette07/nexusone
+- https://github.com/Hyguette07/developer-portfolio
+- Workspace: https://github.com/Hyguette07/hyguette-labs
 
 ## How to work this workspace
 

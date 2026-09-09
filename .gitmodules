@@ -1,3 +1,18 @@
 [submodule "agriculture-platform"]
 	path = agriculture-platform
 	url = https://github.com/Hyguette07/agripulse.git
+[submodule "transport-platform"]
+	path = transport-platform
+	url = https://github.com/Hyguette07/moveflow.git
+[submodule "education-platform"]
+	path = education-platform
+	url = https://github.com/Hyguette07/learnsphere.git
+[submodule "health-platform"]
+	path = health-platform
+	url = https://github.com/Hyguette07/medibridge.git
+[submodule "advanced-project"]
+	path = advanced-project
+	url = https://github.com/Hyguette07/nexusone.git
+[submodule "portfolio-website"]
+	path = portfolio-website
+	url = https://github.com/Hyguette07/developer-portfolio.git

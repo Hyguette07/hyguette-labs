@@ -64,3 +64,8 @@ logs/
 
 # Nested project repositories (each product has its own GitHub repo)
 agriculture-platform/.git/
+transport-platform/.git/
+education-platform/.git/
+health-platform/.git/
+advanced-project/.git/
+portfolio-website/.git/
